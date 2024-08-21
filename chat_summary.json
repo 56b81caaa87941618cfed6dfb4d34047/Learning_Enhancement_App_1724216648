@@ -1,63 +1,97 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1724216649",
+        "role": "chat_acknowledge",
+        "content": "Noted, I'll add the requested fields to the project.",
+        "message_id": "guest21082024070854",
+        "timestamp": "21082024070854",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I'll add the form as requested.",
-        "timestamp": "21082024054721",
-        "message_id": "guest21082024054720"
-    },
-    {
-        "role": "user",
-        "content": "add a form",
-        "timestamp": "21082024070754",
-        "message_id": "guest21082024070752"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Definitely, I can add a form.",
-        "timestamp": "21082024070754",
-        "message_id": "guest21082024070752"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form to be a pop-up or embedded within a specific page?\", \"option1\": \"Pop-up form\", \"option2\": \"Embedded in a page\"}, {\"question 2\": \"Should the form include a file upload option?\", \"option1\": \"Yes, include a file upload option\", \"option2\": \"No, do not include a file upload option\"}], \"input_token_count\": 291, \"output_token_count\": 93, \"time_taken\": \"0:00:03.368855\"}",
-        "timestamp": "21082024070757",
-        "message_id": "guest21082024070752"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Incorporate feedback button for each lesson/module\", \"checked\": true}, {\"feature\": \"Implement progress tracking for users\", \"checked\": false}, {\"feature\": \"Add a 'Save for Later' feature for modules\", \"checked\": false}, {\"feature\": \"Enable notifications/reminders for upcoming lessons or deadlines\", \"checked\": true}, {\"feature\": \"Create a Q&A section for each lesson\", \"checked\": false}, {\"feature\": \"Allow customization of learning paths by users\", \"checked\": false}], \"input_token_count\": 245, \"output_token_count\": 121, \"time_taken\": \"0:00:04.509509\"}",
-        "timestamp": "21082024070759",
-        "message_id": "guest21082024070752"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Great, I'll work on adding the form for you.",
-        "timestamp": "21082024070823",
-        "message_id": "guest21082024070822"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive quizzes\", \"checked\": false}, {\"feature\": \"Progress tracking dashboard\", \"checked\": true}, {\"feature\": \"Personalized learning paths\", \"checked\": false}, {\"feature\": \"Feedback and rating system for courses\", \"checked\": false}, {\"feature\": \"Bookmark or save for later feature\", \"checked\": true}, {\"feature\": \"Discussion forums for peer interaction\", \"checked\": false}], \"input_token_count\": 261, \"output_token_count\": 87, \"time_taken\": \"0:00:03.582890\"}",
-        "timestamp": "21082024070828",
-        "message_id": "guest21082024070822"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like this form to be a standalone page or embedded within an existing page?\", \"option1\": \"Standalone page\", \"option2\": \"Embedded within an existing page\"}, {\"question 2\": \"Should the form include any specific fields such as text inputs, select dropdowns, or file uploads?\", \"option1\": \"Yes, include specific fields (please specify)\", \"option2\": \"No, a simple form with just name and email fields\"}], \"input_token_count\": 307, \"output_token_count\": 108, \"time_taken\": \"0:00:04.357829\"}",
-        "timestamp": "21082024070829",
-        "message_id": "guest21082024070822"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add some more fields",
+        "message_id": "guest21082024070854",
+        "timestamp": "21082024070854",
+        "component_file_name": "simple_cta_component_1724216649",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like this form to be a standalone page or embedded within an existing page?\", \"option1\": \"Standalone page\", \"option2\": \"Embedded within an existing page\"}, {\"question 2\": \"Should the form include any specific fields such as text inputs, select dropdowns, or file uploads?\", \"option1\": \"Yes, include specific fields (please specify)\", \"option2\": \"No, a simple form with just name and email fields\"}], \"input_token_count\": 307, \"output_token_count\": 108, \"time_taken\": \"0:00:04.357829\"}",
+        "message_id": "guest21082024070822",
+        "timestamp": "21082024070829",
+        "component_file_name": "simple_cta_component_1724216649",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive quizzes\", \"checked\": false}, {\"feature\": \"Progress tracking dashboard\", \"checked\": true}, {\"feature\": \"Personalized learning paths\", \"checked\": false}, {\"feature\": \"Feedback and rating system for courses\", \"checked\": false}, {\"feature\": \"Bookmark or save for later feature\", \"checked\": true}, {\"feature\": \"Discussion forums for peer interaction\", \"checked\": false}], \"input_token_count\": 261, \"output_token_count\": 87, \"time_taken\": \"0:00:03.582890\"}",
+        "message_id": "guest21082024070822",
+        "timestamp": "21082024070828",
+        "component_file_name": "simple_cta_component_1724216649",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great, I'll work on adding the form for you.",
+        "message_id": "guest21082024070822",
+        "timestamp": "21082024070823",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Incorporate feedback button for each lesson/module\", \"checked\": true}, {\"feature\": \"Implement progress tracking for users\", \"checked\": false}, {\"feature\": \"Add a 'Save for Later' feature for modules\", \"checked\": false}, {\"feature\": \"Enable notifications/reminders for upcoming lessons or deadlines\", \"checked\": true}, {\"feature\": \"Create a Q&A section for each lesson\", \"checked\": false}, {\"feature\": \"Allow customization of learning paths by users\", \"checked\": false}], \"input_token_count\": 245, \"output_token_count\": 121, \"time_taken\": \"0:00:04.509509\"}",
+        "message_id": "guest21082024070752",
+        "timestamp": "21082024070759",
+        "component_file_name": "simple_footer_component_1724216649",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form to be a pop-up or embedded within a specific page?\", \"option1\": \"Pop-up form\", \"option2\": \"Embedded in a page\"}, {\"question 2\": \"Should the form include a file upload option?\", \"option1\": \"Yes, include a file upload option\", \"option2\": \"No, do not include a file upload option\"}], \"input_token_count\": 291, \"output_token_count\": 93, \"time_taken\": \"0:00:03.368855\"}",
+        "message_id": "guest21082024070752",
+        "timestamp": "21082024070757",
+        "component_file_name": "simple_footer_component_1724216649",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Definitely, I can add a form.",
+        "message_id": "guest21082024070752",
+        "timestamp": "21082024070754",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a form",
+        "message_id": "guest21082024070752",
+        "timestamp": "21082024070754",
+        "component_file_name": "simple_footer_component_1724216649",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add the form as requested.",
+        "message_id": "guest21082024054720",
+        "timestamp": "21082024054721",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "21082024070854",
         "message_id": "guest21082024070854"
     }
