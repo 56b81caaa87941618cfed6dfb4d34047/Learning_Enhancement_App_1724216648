@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Field for user's full name\", \"checked\": true}, {\"feature\": \"Email address input field\", \"checked\": true}, {\"feature\": \"Password and confirm password fields\", \"checked\": true}, {\"feature\": \"Dropdown for selecting user role (e.g., Student, Teacher, Admin)\", \"checked\": false}, {\"feature\": \"Checkbox to accept terms and conditions\", \"checked\": true}, {\"feature\": \"Optional field for phone number\", \"checked\": false}], \"input_token_count\": 276, \"output_token_count\": 113, \"time_taken\": \"0:00:05.804666\"}",
+        "message_id": "guest21082024070854",
+        "timestamp": "21082024070901",
+        "component_file_name": "simple_cta_component_1724216649",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of fields would you like to add to the form?\", \"option1\": \"Text Input Fields\", \"option2\": \"Dropdown Selection Fields\"}, {\"question 2\": \"Should these new fields be mandatory or optional for the user to fill out?\", \"option1\": \"Mandatory\", \"option2\": \"Optional\"}], \"input_token_count\": 322, \"output_token_count\": 81, \"time_taken\": \"0:00:04.717200\"}",
         "message_id": "guest21082024070854",
