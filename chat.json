@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive quizzes\", \"checked\": false}, {\"feature\": \"Progress tracking dashboard\", \"checked\": true}, {\"feature\": \"Personalized learning paths\", \"checked\": false}, {\"feature\": \"Feedback and rating system for courses\", \"checked\": false}, {\"feature\": \"Bookmark or save for later feature\", \"checked\": true}, {\"feature\": \"Discussion forums for peer interaction\", \"checked\": false}], \"input_token_count\": 261, \"output_token_count\": 87, \"time_taken\": \"0:00:03.582890\"}",
+        "message_id": "guest21082024070822",
+        "timestamp": "21082024070828",
+        "component_file_name": "simple_cta_component_1724216649",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I'll work on adding the form for you.",
         "message_id": "guest21082024070822",
