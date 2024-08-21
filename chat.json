@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like this form to be a standalone page or embedded within an existing page?\", \"option1\": \"Standalone page\", \"option2\": \"Embedded within an existing page\"}, {\"question 2\": \"Should the form include any specific fields such as text inputs, select dropdowns, or file uploads?\", \"option1\": \"Yes, include specific fields (please specify)\", \"option2\": \"No, a simple form with just name and email fields\"}], \"input_token_count\": 307, \"output_token_count\": 108, \"time_taken\": \"0:00:04.357829\"}",
+        "message_id": "guest21082024070822",
+        "timestamp": "21082024070829",
+        "component_file_name": "simple_cta_component_1724216649",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive quizzes\", \"checked\": false}, {\"feature\": \"Progress tracking dashboard\", \"checked\": true}, {\"feature\": \"Personalized learning paths\", \"checked\": false}, {\"feature\": \"Feedback and rating system for courses\", \"checked\": false}, {\"feature\": \"Bookmark or save for later feature\", \"checked\": true}, {\"feature\": \"Discussion forums for peer interaction\", \"checked\": false}], \"input_token_count\": 261, \"output_token_count\": 87, \"time_taken\": \"0:00:03.582890\"}",
         "message_id": "guest21082024070822",
