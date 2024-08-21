@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add some more fields",
+        "message_id": "guest21082024070854",
+        "timestamp": "21082024070854",
+        "component_file_name": "simple_cta_component_1724216649",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like this form to be a standalone page or embedded within an existing page?\", \"option1\": \"Standalone page\", \"option2\": \"Embedded within an existing page\"}, {\"question 2\": \"Should the form include any specific fields such as text inputs, select dropdowns, or file uploads?\", \"option1\": \"Yes, include specific fields (please specify)\", \"option2\": \"No, a simple form with just name and email fields\"}], \"input_token_count\": 307, \"output_token_count\": 108, \"time_taken\": \"0:00:04.357829\"}",
         "message_id": "guest21082024070822",
