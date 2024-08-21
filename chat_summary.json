@@ -24,5 +24,11 @@
         "content": "Definitely, I can add a form.",
         "timestamp": "21082024070754",
         "message_id": "guest21082024070752"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form to be a pop-up or embedded within a specific page?\", \"option1\": \"Pop-up form\", \"option2\": \"Embedded in a page\"}, {\"question 2\": \"Should the form include a file upload option?\", \"option1\": \"Yes, include a file upload option\", \"option2\": \"No, do not include a file upload option\"}], \"input_token_count\": 291, \"output_token_count\": 93, \"time_taken\": \"0:00:03.368855\"}",
+        "timestamp": "21082024070757",
+        "message_id": "guest21082024070752"
     }
 ]
