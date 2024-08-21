@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Noted, I will add the requested fields to the project.",
+        "message_id": "guest21082024071030",
+        "timestamp": "21082024071030",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add some more fields ",
         "message_id": "guest21082024071030",
