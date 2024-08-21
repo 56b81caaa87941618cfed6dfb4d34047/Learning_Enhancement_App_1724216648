@@ -10,5 +10,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nAI: Sure, I'll add the form as requested.\nUser: add a form\nAI: Definitely, I can add a form.\nAI: Great, I'll work on adding the form for you.\n\nThis is the user's current request of changes to be made:\nadd some more fields"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn a recent conversation, the User requested the addition of a form, to which the AI acknowledged, stating, \"Sure, I'll add the form as requested.\" The AI then inquired further, asking the User to describe the project in more detail.\nAI: Noted, I'll add the requested fields to the project.\nUser: add some more fields\nAI: Great, I'll work on adding the form for you.\nAI: Definitely, I can add a form.\n\nThis is the user's current request of changes to be made:\nadd some more fields "
     }
 ]
