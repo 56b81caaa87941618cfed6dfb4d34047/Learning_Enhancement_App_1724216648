@@ -16,7 +16,15 @@ Vue.component("simple_footer_component_1724216649", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         © 2023 EduQuest. Empowering learners worldwide. All rights reserved.
+                        © 2023 EduQuest. Empowering learners worldwide. All rights reserved.
                     </div>
+                </div>
+                <div class="mt-8">
+                    <form @submit.prevent="submitForm" class="flex flex-col items-center">
+                        <input v-model="email" type="email" placeholder="Enter your email" class="w-full max-w-md px-4 py-2 mb-4 text-gray-700 bg-white border rounded-lg focus:border-blue-500 focus:outline-none focus:ring" required>
+                        <button type="submit" class="px-6 py-2 text-white bg-blue-600 rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50">Subscribe</button>
+                    </form>
+                </div>
                 </div>
             </div>
         </footer> 
@@ -25,6 +33,16 @@ Vue.component("simple_footer_component_1724216649", {
         return {
             expanded: false,
             tab: null,
+            email: '',
         };
+    },
+    methods: {
+        submitForm() {
+            // Handle form submission here
+            console.log('Form submitted with email:', this.email);
+            // Reset the form
+            this.email = '';
+        }
+    },
     },
 });
