@@ -3,7 +3,7 @@
 
 Vue.component("simple_header_component_1724216649", {
     template: `
-    <header id="header-section" style="min-height: 70px"  class="w-full">
+    <header id="header-section" style="min-height: 70px"   class="w-full">
         <nav id="nav-bar" class="bg-purple-900 bg-opacity-30 backdrop-filter backdrop-blur-lg border-gray-200 py-2.5 dark:bg-gray-900 shadow-lg rounded-lg">
             <div id="nav-container" class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                 <a id="logo-link" href="#" class="flex items-center">
