@@ -3,11 +3,11 @@
 
 Vue.component("simple_header_component_1724216649", {
     template: `
-    <header id="header-section" style="min-height: 70px" class="w-full">
+    <header id="header-section" style="min-height: 70px"  class="w-full">
         <nav id="nav-bar" class="bg-purple-900 bg-opacity-30 backdrop-filter backdrop-blur-lg border-gray-200 py-2.5 dark:bg-gray-900 shadow-lg rounded-lg">
             <div id="nav-container" class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                 <a id="logo-link" href="#" class="flex items-center">
-                    <img id="logo-image" src="./images/logo.svg" alt="Landwind Logo" class="h-6 mr-3 sm:h-9">
+                    <img id="logo-image" src="https://makeinfinite-mentat-test.azurewebsites.net/get_image/Learning_Enhancement_App_1724216648/logo.svg" alt="Landwind Logo" class="h-6 mr-3 sm:h-9">
                     <span id="app-name" class="self-center text-xl font-semibold whitespace-nowrap text-pink-300">EduQuest: Your Learning Journey</span>
                 </a>
                 <div id="menu-toggle-button" class="flex items-center lg:order-2">
