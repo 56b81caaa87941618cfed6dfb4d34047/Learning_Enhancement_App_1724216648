@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button",
+        "message_id": "guest22082024042139",
+        "timestamp": "22082024042141",
+        "component_file_name": "simple_cta_component_1724216649",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of fields would you like to add to the form?\", \"option1\": \"Text Input Fields\", \"option2\": \"Dropdown Selection Fields\"}, {\"question 2\": \"Do you have any specific data validation requirements for these new fields?\", \"option1\": \"Yes, enforce specific formats or value ranges\", \"option2\": \"No, any input is acceptable\"}], \"input_token_count\": 378, \"output_token_count\": 90, \"time_taken\": \"0:00:03.678045\"}",
         "message_id": "guest21082024071030",
